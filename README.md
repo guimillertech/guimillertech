@@ -34,7 +34,7 @@ Um sistema completo para gerenciar perfis profissionais com uma interface de adm
 - [LinkedIn](https://www.linkedin.com/in/guimiller)
 - [Instagram](https://www.instagram.com/guimillertech)
 - [Facebook](https://www.facebook.com/guimilller)
-- [WhatsApp](https://wa.me/85996122044)
+- [WhatsApp](https://wa.me/5585996122044)
 
 ## Curiosidades
 
